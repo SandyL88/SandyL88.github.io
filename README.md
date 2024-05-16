@@ -3,7 +3,7 @@
  ## Project
  - personal website
 ## Link to personal website
-https://sandyl88.github.io/Student-Portfolio-HL/
+ https://sandyl88.github.io/
 ### List of Language
 HTML and CSS
  ## Portfolio Website
